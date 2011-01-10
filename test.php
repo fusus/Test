@@ -1,7 +1,7 @@
 <?php
 
 /**
- * @author Nils Ove Nygård
+ * @author Nils Ove M. Nygård
  * @copyright 2011
  */
 
